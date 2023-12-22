@@ -1,0 +1,4 @@
+prewed.webm filter=lfs diff=lfs merge=lfs -text
+prewed.mp4 filter=lfs diff=lfs merge=lfs -text
+prewed.ogv filter=lfs diff=lfs merge=lfs -text
+video/wedvid.mp4 filter=lfs diff=lfs merge=lfs -text
